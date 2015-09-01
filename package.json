@@ -1,0 +1,34 @@
+{
+  "name": "javascripting",
+  "version": "1.0.0",
+  "description": "An exercise walking through essential JavaScript language features, using the JavaScripting workshop by Seth Vincent.",
+  "main": "introduction.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "tape": "^4.2.0",
+    "workshopper-adventure": "3.4.5",
+    "javascripting": "2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "tape test/index.js",
+    "install": "npm install --global javascripting@2.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unioncollege-webtech/javascripting.git"
+  },
+  "keywords": [
+    "javascript",
+    "workshop",
+    "beginner"
+  ],
+  "author": "Benjamin Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unioncollege-webtech/javascripting/issues"
+  },
+  "homepage": "https://github.com/unioncollege-webtech/javascripting"
+}
