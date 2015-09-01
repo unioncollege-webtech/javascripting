@@ -7,11 +7,12 @@
     "test": "test"
   },
   "dependencies": {
+  },
+  "devDependencies": {
     "tape": "^4.2.0",
     "workshopper-adventure": "3.4.5",
     "javascripting": "2.0.3"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "tape test/index.js",
     "install": "npm install --global javascripting@2.0.3"
