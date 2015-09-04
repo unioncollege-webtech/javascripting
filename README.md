@@ -33,7 +33,7 @@ javascripting
 
 You’ll see the menu:
 
-![javascripting screenshot](screenshot.png)
+![javascripting screenshot](http://raw.githubusercontent.com/unioncollege-webtech/javascripting/master/screenshot.png)
 
 Navigate the menu with the up & down arrow keys.
 
